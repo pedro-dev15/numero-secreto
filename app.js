@@ -65,4 +65,8 @@ function reiniciarJogo() {
   document.getElementById("reiniciar").setAttribute("disabled", true);
 }
 
+<<<<<<< HEAD
 console.log("Testeee");
+=======
+console.log("Teste de merge");
+>>>>>>> 134d310a0bf0b5a2d9c8d695c47920a5a4afde15
